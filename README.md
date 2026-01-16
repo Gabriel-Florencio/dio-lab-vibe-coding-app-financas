@@ -8,7 +8,7 @@ Vibe coding é um conceito de desenvolvimento focado em criar rápido, com fluid
 
 ## 🎯 Entregando o Desafio na DIO
 
-- Prompt Final (PRD):
+- Prompt Final (PRD): https://copilot.microsoft.com/shares/pages/AxAxzzzwFmLcCzoRM7S1r
    
 - Prints das interações com a IA:
 - <img width="796" height="890" alt="image" src="https://github.com/user-attachments/assets/c217d728-750d-4284-9f00-08766e82543f" />
